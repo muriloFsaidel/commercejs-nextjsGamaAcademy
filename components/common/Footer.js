@@ -91,6 +91,9 @@ const Footer = () => (
               className="borderbottom border-color-gray400 h-48 w-100 px-3"
               placeholder="email address"
             />
+  <form action="https://hotmail.us6.list-manage.com/subscribe/post?u=507f3b1f6e243d616cb330356&amp;id=c6b47cd85c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_507f3b1f6e243d616cb330356_c6b47cd85c" tabindex="-1" value=""></div>
+  </form>
             <button className="bg-transparent position-absolute right-0 top-50 translateY--50 pr-2 h-48">
               <img src="/icon/arrow-long-right.svg" className="w-24" alt="Arrow icon"/>
               <a href="http://eepurl.com/hD4wWL"></a>
