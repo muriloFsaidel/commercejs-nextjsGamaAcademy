@@ -176,6 +176,7 @@ class Header extends Component {
 
     return (
       <header className="position-fixed top-0 left-0 right-0 font-weight-semibold no-print">
+      <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/507f3b1f6e243d616cb330356/e76cd57adeaf5c366ec82004f.js");</script>
         <Cart isOpen={showCart} toggle={value => this.toggleCart(value)} />
         <div
           ref={this.header}
