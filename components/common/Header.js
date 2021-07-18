@@ -190,7 +190,7 @@ class Header extends Component {
             </Link>
             <Link href="/about">
               <a href="/about" className="font-color-black">
-                About 2
+                About
               </a>
             </Link>
           </div>
